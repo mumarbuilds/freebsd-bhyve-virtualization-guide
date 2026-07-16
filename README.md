@@ -30,7 +30,6 @@ Topics covered:
 
 ## Architecture
 
-> Add architecture diagram here.
 
 ![](images/architecture.png)
 
