@@ -1,4 +1,3 @@
-````markdown
 # 06 - Installing Sylve
 
 ![Sylve](../images/06-installing-sylve.png)
