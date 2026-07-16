@@ -1,18 +1,71 @@
 # freebsd-bhyve-virtualization-guide
-A practical guide to installing, configuring, and testing FreeBSD Bhyve and Sylve, including bridged networking, VM deployment, troubleshooting, and real-world screenshots for a complete virtualization lab.
+# FreeBSD Bhyve + Sylve Lab
 
-freebsd
-bhyve
-sylve
-virtualization
-hypervisor
-bsd
-system-administration
-homelab
-networking
-open-source
-linux
-devops
-cloud
-virtual-machines
-tutorial
+A step-by-step guide to installing, configuring, and testing FreeBSD's native hypervisor (Bhyve) together with Sylve Web UI.
+
+## Lab Overview
+
+This repository documents my hands-on experience building a lightweight virtualization platform using FreeBSD.
+
+Topics covered:
+
+- Installing FreeBSD
+- Updating the system
+- Installing Bhyve
+- Configuring networking
+- Creating virtual machines
+- Installing an operating system inside Bhyve
+- Installing and configuring Sylve
+- Managing VMs through the web interface
+- Troubleshooting common issues
+
+## Lab Environment
+
+| Component     | Version  |
+|---------------|----------|
+| FreeBSD       | 14.x     |
+| Hypervisor    | Bhyve    |
+| Management UI | Sylve    |
+| Guest OS      | PROXMOX  |
+
+## Architecture
+
+> Add architecture diagram here.
+
+![](images/architecture.png)
+
+## Documentation
+
+1. FreeBSD Installation
+2. System Preparation
+3. Installing Bhyve
+4. Network Configuration
+5. Creating Virtual Machines
+6. Installing Sylve
+7. Testing
+8. Troubleshooting
+
+## Screenshots
+
+All screenshots used in this guide are available under the `images/` directory.
+
+## Learning Objectives
+
+By completing this guide you will be able to:
+
+- Install FreeBSD
+- Configure Bhyve
+- Create and manage VMs
+- Configure bridged networking
+- Install Sylve
+- Manage virtual machines through a web interface
+
+## References
+
+- FreeBSD Handbook
+- Bhyve Documentation
+- Sylve Documentation
+
+## License
+
+MIT
