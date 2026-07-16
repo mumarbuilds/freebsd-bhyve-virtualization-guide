@@ -71,9 +71,9 @@ Choose:
 
 Screenshot
 
-```
-(../images/01-download-freebsd.png)
-```
+
+../images/01-download-freebsd.png
+
 
 ---
 
@@ -113,9 +113,9 @@ The FreeBSD installer will start.
 
 Screenshot
 
-```
-images/02-installer-menu.png
-```
+
+.../images/02-installer-menu.png
+
 
 ---
 
