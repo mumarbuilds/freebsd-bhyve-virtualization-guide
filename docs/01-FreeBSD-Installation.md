@@ -71,8 +71,9 @@ Choose:
 
 Screenshot
 
-
-../images/01-download-freebsd.png
+```
+![Download FreeBSD](../images/01-download-freebsd.png)
+```
 
 
 ---
@@ -113,9 +114,9 @@ The FreeBSD installer will start.
 
 Screenshot
 
-
-.../images/02-installer-menu.png
-
+```
+![Download FreeBSD](../images/02-installer-menu.png)
+```
 
 ---
 
@@ -130,7 +131,7 @@ Install
 Screenshot
 
 ```
-images/03-install-option.png
+![Download FreeBSD](../images/03-install-option.png)
 ```
 
 ---
@@ -172,7 +173,7 @@ freebsd-lab
 Screenshot
 
 ```
-images/04-hostname.png
+![Download FreeBSD](../images/04-hostname.png)
 ```
 
 ---
@@ -189,7 +190,7 @@ These are optional but useful for development and troubleshooting.
 Screenshot
 
 ```
-images/05-components.png
+![Download FreeBSD](../images/05-components.png)
 ```
 
 ---
@@ -212,7 +213,7 @@ Recommended options:
 Screenshot
 
 ```
-images/06-zfs-install.png
+![Download FreeBSD](../images/06-zfs-install.png)
 ```
 
 ---
@@ -244,7 +245,7 @@ Configure a static IP address if required.
 Screenshot
 
 ```
-images/07-network-config.png
+![Download FreeBSD](../images/07-network-config.png)
 ```
 
 ---
@@ -279,7 +280,7 @@ Recommended services:
 Screenshot
 
 ```
-images/08-services.png
+![Download FreeBSD](../images/08-services.png)
 ```
 
 ---
@@ -303,7 +304,7 @@ Enter a strong password.
 
 
 ```
-images/08.1-root.png
+![Download FreeBSD](../images/08.1-root.png)
 
 ```
 
@@ -338,7 +339,7 @@ This allows the user to execute administrative commands using `su` or `sudo`.
 Screenshot
 
 ```
-images/09-user-creation.png
+![Download FreeBSD](../images/09-user-creation.png)
 ```
 
 ---
