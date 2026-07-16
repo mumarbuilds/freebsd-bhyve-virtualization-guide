@@ -39,8 +39,8 @@ Topics covered:
 2. System Preparation
 3. Installing Bhyve
 4. Network Configuration
-5. Creating Virtual Machines
-6. Installing Sylve
+5. Installing Sylve
+6. Creating Virtual Machines 
 7. Testing
 8. Troubleshooting
 
