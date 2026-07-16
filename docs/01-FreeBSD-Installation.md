@@ -113,9 +113,7 @@ The FreeBSD installer will start.
 
 Screenshot
 
-```
 ![Download FreeBSD](../images/02-installer-menu.png)
-```
 
 ---
 
@@ -129,9 +127,7 @@ Install
 
 Screenshot
 
-```
 ![Download FreeBSD](../images/03-install-option.png)
-```
 
 ---
 
@@ -171,9 +167,7 @@ freebsd-lab
 
 Screenshot
 
-```
 ![Download FreeBSD](../images/04-hostname.png)
-```
 
 ---
 
@@ -188,9 +182,7 @@ These are optional but useful for development and troubleshooting.
 
 Screenshot
 
-```
 ![Download FreeBSD](../images/05-components.png)
-```
 
 ---
 
@@ -243,9 +235,7 @@ Configure a static IP address if required.
 
 Screenshot
 
-```
 ![Download FreeBSD](../images/07-network-config.png)
-```
 
 ---
 
@@ -278,9 +268,7 @@ Recommended services:
 
 Screenshot
 
-```
 ![Download FreeBSD](../images/08-services.png)
-```
 
 ---
 
@@ -302,10 +290,8 @@ Enter a strong password.
 
 
 
-```
 ![Download FreeBSD](../images/08.1-root.png)
 
-```
 
 Do not use weak passwords in production environments.
 
@@ -337,9 +323,7 @@ This allows the user to execute administrative commands using `su` or `sudo`.
 
 Screenshot
 
-```
 ![Download FreeBSD](../images/09-user-creation.png)
-```
 
 ---
 
