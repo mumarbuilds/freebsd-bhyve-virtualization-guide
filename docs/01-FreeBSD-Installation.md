@@ -72,7 +72,7 @@ Choose:
 Screenshot
 
 ```
-![](images/01-download-freebsd.png)
+(../images/01-download-freebsd.png)
 ```
 
 ---
