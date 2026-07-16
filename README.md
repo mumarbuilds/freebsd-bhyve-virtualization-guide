@@ -61,9 +61,9 @@ By completing this guide you will be able to:
 
 ## References
 
-- FreeBSD Handbook
-- Bhyve Documentation
-- Sylve Documentation
+- FreeBSD Handbook :- https://docs.freebsd.org/en/books/handbook/
+- Bhyve Documentation :- https://docs.freebsd.org/en/books/handbook/virtualization/#virtualization-host-bhyve
+- Sylve Documentation :- https://sylve.io/docs/
 
 ## License
 
