@@ -1,2 +1,18 @@
 # freebsd-bhyve-virtualization-guide
-Hands-on documentation for deploying a FreeBSD virtualization environment using Bhyve and Sylve, covering installation, configuration, virtual machine management, networking, and testing.
+A practical guide to installing, configuring, and testing FreeBSD Bhyve and Sylve, including bridged networking, VM deployment, troubleshooting, and real-world screenshots for a complete virtualization lab.
+
+freebsd
+bhyve
+sylve
+virtualization
+hypervisor
+bsd
+system-administration
+homelab
+networking
+open-source
+linux
+devops
+cloud
+virtual-machines
+tutorial
