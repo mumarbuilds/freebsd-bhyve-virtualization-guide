@@ -71,9 +71,8 @@ Choose:
 
 Screenshot
 
-```md
+
 ![Download FreeBSD](../images/01-download-freebsd.png)
-```
 
 
 ---
