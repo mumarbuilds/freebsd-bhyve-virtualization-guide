@@ -26,7 +26,7 @@ Topics covered:
 | FreeBSD       | 15.x     |
 | Hypervisor    | Bhyve    |
 | Management UI | Sylve    |
-| Guest OS      | PROXMOX  |
+| Host OS      | PROXMOX  |
 
 ## Architecture
 
