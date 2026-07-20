@@ -41,8 +41,7 @@ Topics covered:
 4. Network Configuration
 5. Installing Sylve
 6. Creating Virtual Machines 
-7. Testing
-8. Troubleshooting
+7. Troubleshooting 
 
 ## Screenshots
 
