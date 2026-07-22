@@ -98,9 +98,7 @@ pkg install sylve
 
 Screenshot
 
-```
-images/52-install-sylve.png
-```
+![Download FreeBSD](../images/52-install-sylve.png)
 
 ---
 
@@ -123,9 +121,7 @@ sysrc sylve_enable="YES"
 
 Screenshot
 
-```
-images/53-configuration.png
-```
+![Download FreeBSD](../images/53-configuration.png)
 
 ---
 
@@ -156,11 +152,6 @@ Expected output
 *:8181
 ```
 
-Screenshot
-
-```
-images/54-service-running.png
-```
 
 ---
 
@@ -196,9 +187,7 @@ You should see the Sylve login page.
 
 Screenshot
 
-```
-images/55-login-page.png
-```
+![Doqnload FreeBSD](../images/55-login-page.png)
 
 ---
 
@@ -215,9 +204,7 @@ After login you should see:
 
 Screenshot
 
-```
-images/56-dashboard.png
-```
+![Download FreeBSD](../images/56-dashboard.png)
 
 ---
 
@@ -241,11 +228,9 @@ Take screenshots for each operation.
 
 Example screenshots
 
-```
-images/57-vm-list.png
-images/58-running-vm.png
-images/59-console.png
-```
+![Download FreeBSD](../images/57-vm-list.png)
+![Download FreeBSD](../images/58-running-vm.png)
+![Download FreeBSD](../images/59-console.png)
 
 ---
 
@@ -376,7 +361,7 @@ Continue with **07-Testing.md** to validate the complete virtualization environm
 
 ---
 
-**Author:** *Your Name*
+**Author:** *Mohammed Umar*
 
 **Repository:** *freebsd-bhyve-sylve-lab*
 
